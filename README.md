@@ -1,0 +1,5 @@
+Marco Girlanda sta attualmente specializzandosi nell'informatica, con un focus su Progettazione di Software, Sistemi e Reti presso l'Istituto di Istruzione Superiore Bernocchi. In seguito, aspira a conseguire una laurea in ingegneria informatica. Attualmente, Marco si dedica a una serie di progetti, tra cui la Progettazione dell'Interfaccia Utente, lo Sviluppo di Applicazioni Mobili, la Manutenzione dei Computer e la Progettazione dei Database.
+
+La sua seconda passione è la Progettazione dell'Interfaccia Utente (UI) e l'esperienza utente (UX) correlata. Per coltivare questa passione, Marco ha sperimentato vari stili di design nel corso del tempo e li ha perfezionati. Questo gli ha permesso di creare applicazioni per dispositivi mobili che sono non solo intuitive ma anche accessibili anche per coloro che non sono esperti nell'uso di dispositivi informatici.
+
+Inoltre, Marco è un grande appassionato del sistema operativo macOS e dedica tempo ed energie per approfondire continuamente la sua conoscenza in questo settore, acquisendo sempre più competenze.
